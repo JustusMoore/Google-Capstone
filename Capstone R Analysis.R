@@ -2,7 +2,7 @@
 
 #You are an analyst working for a bike sharing company named Cyclistic.
 #You are tasked with looking at how annual members(i.e. subscribers) and casual members (i.e.,Customers) use Cyclistic bikes differently. 
-#Goal is to see how to convert customers into subscribers
+#Goal is to convert customers into subscribers
 
 
 #PREPARE PROCESS#
